@@ -1,1 +1,2 @@
 # spigotblockly
+send help
